@@ -19,7 +19,7 @@ Scrii un gând în română, dezordonat; aplicația separă task-urile, prinde d
 - Am realizat pagina `/input` (textarea) conectată la endpoint-ul `POST /api/parse-tasks`, care trimite textul liber spre procesare
 - Stack: Next.js, TypeScript, Supabase, Vercel. Lucru în echipă cu Git și Jira. Deployed în producție.
 
-## Skills tehnice
+## Cunoștințe tehnice
 
 ```
 Limbaje:      C++, Java (solide), JavaScript/TypeScript, Python (baze)
