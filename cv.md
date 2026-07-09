@@ -15,7 +15,7 @@ Scrii un gând în română, dezordonat; aplicația separă task-urile, prinde d
 **Rol: autentificare, protecția rutelor și ecranul de input.**
 
 - Am construit fluxul de autentificare (login/register) cu Supabase Auth, ca fiecare utilizator să-și vadă doar propriile task-uri
-- Am scris un middleware Next.js care protejează rutele autentificate și redirectează spre `/login` utilizatorii nelogați
+- Am scris un middleware Next.js care protejează rutele autentificate și redirecționează spre `/login` utilizatorii nelogați
 - Am realizat pagina `/input` (textarea) conectată la endpoint-ul `POST /api/parse-tasks`, care trimite textul liber spre procesare
 - Stack: Next.js, TypeScript, Supabase, Vercel. Lucru în echipă cu Git și Jira. Deployed în producție.
 
